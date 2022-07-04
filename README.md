@@ -1,5 +1,10 @@
 # all-you-need-is-arxiv-search
-get most updated arxiv paper following this repo.
+## 本仓库的将包含的功能开发
+(1) 基于微信搜索获取最新arxiv论文推送；
+(2) 一个网站(域名待公开), 包含各个领域最新文章的检索，和任意时间段的研究趋势的分析；
+(3) 通过Telegram bot, 获取最新arxiv论文的推送。
+
+
 
 
 ## 通过微信搜索关键词获取该领域最新投稿文章
