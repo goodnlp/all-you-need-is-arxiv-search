@@ -13,4 +13,4 @@ get most updated arxiv paper following this repo.
 (2) 进入与该公众号的聊天框，搜索任意英文单词，即可收到该领域最多10篇最新论文的推送。
 
 
-![avatar](./pics/crop.jpg)
+![avatar](./pics/crop1.jpg)
