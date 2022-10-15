@@ -11,7 +11,8 @@ https://www.arxiv.dev 已经上线，包含搜索功能，分领域的论文浏�
 (3) 通过Telegram bot, 获取最新arxiv论文的推送。
 
 
-## arxiv search 网站
+## 包含的3大功能介绍
+### arxiv search 网站
 
 网址: https://www.arxiv.dev
 功能概览：
@@ -24,7 +25,7 @@ https://www.arxiv.dev 已经上线，包含搜索功能，分领域的论文浏�
 
 
 
-## 通过微信搜索关键词获取该领域最新投稿文章
+### 通过微信搜索关键词获取该领域最新投稿文章
 
 (1) 通过微信公众号ID: AIMatter； 或者扫描下方二维码；
 
@@ -36,3 +37,11 @@ https://www.arxiv.dev 已经上线，包含搜索功能，分领域的论文浏�
 
 
 ![avatar](./pics/crop1.jpg)
+
+### Telegram bot
+(待开发)
+
+
+
+
+
