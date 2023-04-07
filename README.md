@@ -10,6 +10,8 @@ https://www.arxiv.dev 已经上线，包含搜索功能，分领域的论文浏�
 
 *  通过Telegram bot, 获取最新arxiv论文的推送。
 
+*  本仓库还将开源web app ， 微信bot的开发过程整理成一个教程。
+
 
 ## 包含的3大功能介绍
 ### Arxiv Search 网站
