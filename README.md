@@ -44,4 +44,4 @@ https://www.arxiv.dev 已经上线，包含搜索功能，分领域的论文浏�
 
 
 ## 欢迎建议
-有任何建议可以发送邮件至, g1402463g@gmail.com
+有任何建议可以[提交issue](https://github.com/goodnlp/all-you-need-is-arxiv-search/issues)
