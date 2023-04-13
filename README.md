@@ -44,6 +44,10 @@ https://www.arxiv.dev 已经上线，包含搜索功能，分领域的论文浏�
 ### Telegram bot
 (待开发)
 
+### wechat bot 代码开源
+
+
+
 
 ## 欢迎建议
 有任何建议可以[提交issue](https://github.com/goodnlp/all-you-need-is-arxiv-search/issues)
