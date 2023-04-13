@@ -45,8 +45,7 @@ https://www.arxiv.dev 已经上线，包含搜索功能，分领域的论文浏�
 (待开发)
 
 ### wechat bot 代码开源
-
-
+* 链接： https://github.com/goodnlp/all-you-need-is-arxiv-search/tree/main/wechat_bot
 
 
 ## 欢迎建议
