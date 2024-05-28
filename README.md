@@ -1,17 +1,11 @@
 # all-you-need-is-arxiv-search
 
-## Features in this repository
+## What is Arxiv Search
 
-* A website that includes the latest articles from various fields, with search and analysis of research trends over any period;
+* There has been an explosion of research output in the scientific community, especially in Arxiv, people could easily get lost and overloaded when reading through
+* This project helps to provide a handy platform to follow the latest articles from various fields, with search function over any period.
 
-https://www.arxiv.dev is now live, featuring search functionality, browsing by field, and more data analysis features are in development.
 
-
-* Push notifications for the latest arxiv papers based on WeChat search;
-
-* Push notifications for the latest arxiv papers through a Telegram bot.
-
-* This repository will also open-source the development process of the web app and WeChat bot as a tutorial.
 
 
 ## Introduction to the 3 major features
@@ -41,7 +35,22 @@ Feature Overview:
 ### Telegram bot
 (To be developed)
 
-### WeChat bot code open-source
+## Features in this repository
+
+* A website that includes the latest articles from various fields, with search and analysis of research trends over any period;
+
+https://www.arxiv.dev is now live, featuring search functionality, browsing by field, and more data analysis features are in development.
+
+
+* Push notifications for the latest arxiv papers based on WeChat search;
+
+* Push notifications for the latest arxiv papers through a Telegram bot.
+
+* This repository will also open-source the development process of the web app and WeChat bot as a tutorial.
+
+
+
+## WeChat bot code open-source
 
 * Link: https://github.com/goodnlp/all-you-need-is-arxiv-search/tree/main/wechat_bot
 
