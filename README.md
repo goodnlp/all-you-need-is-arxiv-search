@@ -2,7 +2,7 @@
 
 ## What is Arxiv Search
 
-* There has been an explosion of research output in the scientific community, especially in Arxiv, people could easily get lost and overloaded when reading through
+* There has been an explosion of research output in the scientific community, especially in Arxiv, people could easily get lost and overloaded when following up on research progress.
 * This project helps to provide a handy platform to follow the latest articles from various fields, with search function over any period.
 
 
